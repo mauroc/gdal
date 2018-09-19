@@ -1,0 +1,61 @@
+Had to open data source read-only.
+INFO: Open of `vector/US5TX51M.000'
+      using driver `S57' successful.
+1: DSID (None)
+2: ACHARE
+3: BCNLAT (Point)
+4: BCNSPP (Point)
+5: BRIDGE
+6: BUISGL
+7: BUAARE
+8: BOYLAT (Point)
+9: CBLARE (Polygon)
+10: CBLOHD
+11: CANALS
+12: CTNARE
+13: COALNE
+14: DAMCON
+15: DAYMAR (Point)
+16: DEPARE
+17: DEPCNT
+18: DISMAR (Point)
+19: DRGARE (Polygon)
+20: DMPGRD
+21: DYKCON
+22: FAIRWY (Polygon)
+23: FOGSIG (Point)
+24: GATCON
+25: LAKARE (Polygon)
+26: LNDARE
+27: LNDELV
+28: LNDRGN
+29: LNDMRK
+30: LIGHTS (Point)
+31: MORFAC
+32: NAVLNE
+33: OBSTRN
+34: OFSPLF
+35: PILPNT (Point)
+36: PIPARE
+37: PIPSOL
+38: PRDARE
+39: RAILWY
+40: RECTRC
+41: RESARE (Polygon)
+42: RETRFL (Point)
+43: RIVERS
+44: ROADWY
+45: SEAARE
+46: SBDARE
+47: SLCONS
+48: SILTNK
+49: SMCFAC
+50: SOUNDG (3D Multi Point)
+51: UWTROC (Point)
+52: UNSARE (Polygon)
+53: WRECKS
+54: M_ACCY (Polygon)
+55: M_COVR (Polygon)
+56: M_NSYS (Polygon)
+57: M_QUAL (Polygon)
+58: C_AGGR (None)
