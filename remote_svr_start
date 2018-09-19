@@ -1,5 +1,0 @@
-#!/bin/bash
-#export REQUESTS_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt
-source env/bin/activate
-jupyter notebook --allow-root --no-browser --port=8889
-tensorboard --logdir tf_logs/
