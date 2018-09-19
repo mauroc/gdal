@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "1. make sure there are no processes running on port 8889"
+ps -ef | grep localhost:8889
+echo "2. start the remote jupyter notebook on ws.squidd.io with ./remote_svr_start"
+echo "3. paste the remote server url (including token) in the local browser. (replace port 8889 with 8888)"
+
+ssh -N -f -L localhost:8888:localhost:8889 root@$1 # jupyter notebook
+ssh -N -f -L localhost:6005:localhost:6006 root@$1 # tensorboard
