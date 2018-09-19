@@ -1,0 +1,9 @@
+datasets/
+*.pkl
+models/*.data*
+credentials.json
+tmp/
+env/
+tf_logs/
+.ipynb_checkpoints/
+nohup.out
