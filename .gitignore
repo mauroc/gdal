@@ -7,3 +7,4 @@ env/
 tf_logs/
 .ipynb_checkpoints/
 nohup.out
+images/
